@@ -1,0 +1,7 @@
+{
+  "name": "debouce-explain",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "author": "elias al3xandre",
+  "license": "MIT"
+}
